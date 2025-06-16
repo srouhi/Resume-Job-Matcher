@@ -74,11 +74,11 @@ Ideal for:
 
 ## How to Run Locally
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/Srouhi/resume-job-matcher.git
 cd resume-job-matcher
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit app
