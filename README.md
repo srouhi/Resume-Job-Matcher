@@ -1,6 +1,6 @@
 # 🤖 Resume-Job Matcher AI
 
-Match your resume to any job description with AI — get instant feedback, missing skills, and improvement tips.
+Match your resume to any job description with AI, get instant feedback, missing skills, and improvement tips.
 
 Built with NLP, embeddings, keyword extraction, and large language models. Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Srouhi/resume-job-matcher) with Streamlit.
 
@@ -37,19 +37,19 @@ This AI-powered web app helps job applicants:
 ---
 
 ## Project Structure
+
 resume-job-matcher/
 │
-├── app.py # Streamlit UI logic
-├── Embeddings.py # Similarity score logic
-├── Feedbacks.py # LLM-based feedback generation
-├── FileLoader.py # File upload and preprocessing
-├── requirements.txt # Dependency list
-└── README.md # Project overview and documentation
-
+├── app.py              # Streamlit app UI and logic
+├── Embeddings.py       # Calculates similarity score using sentence-transformers
+├── Feedbacks.py        # Generates resume improvement suggestions using FLAN-T5
+├── FileLoader.py       # Reads and cleans uploaded files (PDF, DOCX, TXT)
+├── requirements.txt    # Python dependencies
+└── README.md           # Project overview and documentation
 
 ---
 
-## 💡 Use Case
+## Use Case
 
 Ideal for:
 - Candidates preparing resumes for different roles
@@ -87,14 +87,13 @@ streamlit run app.py
 ## Links
 
 - 🎯 **[Live Demo on Hugging Face](https://huggingface.co/spaces/Srouhi/resume-job-matcher)**
-- 📬 **Contact Me:** srouhi2@huskers.unl.edu
-- 🧠 **[My Data Science Portfolio](https://github.com/Srouhi)**
+- 📬 **Contact Me:** Shaghayegh.rouhi.sr@gmail.com
 
 ---
 
 ## Author
 
-**Shaghayegh Rouhi**  
+** Shay - Shaghayegh Rouhi**  
 Data Science | AI/ML Development | NLP Applications
 🌐 Portfolio Website
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/Shay-shaghayegh-rouhi-aba3892a1)
