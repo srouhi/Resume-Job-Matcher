@@ -38,6 +38,8 @@ This AI-powered web app helps job applicants:
 
 ## Project Structure
 
+```
+
 resume-job-matcher/
 │
 ├── app.py              # Streamlit app UI and logic
@@ -47,7 +49,7 @@ resume-job-matcher/
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project overview and documentation
 
----
+```
 
 ## Use Case
 
