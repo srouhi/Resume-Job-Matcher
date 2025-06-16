@@ -95,7 +95,7 @@ streamlit run app.py
 
 ## Author
 
-** Shay - Shaghayegh Rouhi**  
+**Shay - Shaghayegh Rouhi**  
 Data Science | AI/ML Development | NLP Applications
 🌐 Portfolio Website
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/Shay-shaghayegh-rouhi-aba3892a1)
