@@ -16,10 +16,10 @@ Built with NLP, embeddings, keyword extraction, and large language models. Hoste
 
 This AI-powered web app helps job applicants:
 
-- ✅ Upload a resume and a job description (PDF, DOCX, TXT)
-- 📊 Get a **match score** based on semantic similarity
-- 🧠 See **missing skills and keywords** (via keyphrase extraction)
-- ✍️ Receive **custom feedback suggestions** (via FLAN-T5 LLM)
+- Upload a resume and a job description (PDF, DOCX, TXT)
+- Get a **match score** based on semantic similarity
+- See **missing skills and keywords** (via keyphrase extraction)
+- Receive **custom feedback suggestions** (via FLAN-T5 LLM)
 
 ---
 
@@ -62,13 +62,13 @@ Ideal for:
 
 ## Skills Demonstrated
 
-✅ Natural Language Processing (NLP)  
-✅ Semantic Search with Transformers  
-✅ Keyword Extraction using BERT  
-✅ Prompt Engineering for Feedback Generation  
-✅ Streamlit App Development  
-✅ Hosting AI apps with Hugging Face Spaces  
-✅ Git & Version Control
+- Natural Language Processing (NLP)
+- Semantic Search with Transformers
+- Keyword Extraction using BERT
+- Prompt Engineering for Feedback Generation
+- Streamlit App Development
+- Hosting AI apps with Hugging Face Spaces
+- Git & Version Control
 
 ---
 
@@ -88,14 +88,13 @@ streamlit run app.py
 
 ## Links
 
-- 🎯 **[Live Demo on Hugging Face](https://huggingface.co/spaces/Srouhi/resume-job-matcher)**
-- 📬 **Contact Me:** Shaghayegh.rouhi.sr@gmail.com
+- **[Live Demo on Hugging Face](https://huggingface.co/spaces/Srouhi/resume-job-matcher)**
+- **Contact Me:** Shaghayegh.rouhi.sr@gmail.com
 
 ---
 
 ## Author
 
 **Shay - Shaghayegh Rouhi**  
-Data Science | AI/ML Development | NLP Applications
-🌐 Portfolio Website
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/Shay-shaghayegh-rouhi-aba3892a1)
+Data Science | AI/ML Development | NLP Applications  
+ [LinkedIn Profile](https://www.linkedin.com/in/Shay-shaghayegh-rouhi-aba3892a1)
